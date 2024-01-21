@@ -10,7 +10,7 @@ I love to code, learn new things, self-taught software engineer and love making 
 <hr>  
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-just visit my site at [<a href="https:\\fiqih-amrullah.me" target="_blank" />] to get more info and contacts
+just visit my site at [<a href="https:\\fiqih-amrullah.me" target="_blank" />] (https:\\fiqih-amrullah.me) to get more info and contacts
 
 ## 🌱 I’m currently learning Generative AI
 
