@@ -2,7 +2,9 @@
 
 ### 💻 Languages and Tools
 
-![trophy](https://skillicons.dev/icons?i=java,cs,php,py,kotlin,nodejs,js,cpp,python,laravel,spring,dotnet,opencv,unity,matlab,androidstudio,visualstudio,vscode,idea,eclipse,postman,html,bootstrap,jquery,maven,gradle,mysql,postgres,redis,git&perline=10)
+![github-header-image (1)](https://github.com/fiqihamrullah/fiqihamrullah/assets/68839112/1c54e8be-17cb-41f9-a9b7-af8667f5dcbd)
+
+![trophy](https://skillicons.dev/icons?i=java,cs,php,py,kotlin,nodejs,js,cpp,python,laravel,spring,dotnet,opencv,unity,matlab,androidstudio,visualstudio,vscode,idea,eclipse,postman,html,bootstrap,jquery,maven,gradle,mysql,postgres,redis,git&perline=13)
 <hr>  
 
 <!--
